@@ -17,3 +17,8 @@ Tool that can provide the staff team with client logs of the servers you have be
 Picture Guide to disabling windows Defender
 
 ![alt text](https://i.imgur.com/x5lglgs.png)
+![alt text](https://i.imgur.com/RauAoTy.png)
+![alt text](https://i.imgur.com/HcoygF4.png)
+![alt text](https://i.imgur.com/Z4qgCeN.png)
+![alt text](https://i.imgur.com/9wUsXcA.png)
+![alt text](https://i.imgur.com/WWqLfWD.png)
