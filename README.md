@@ -12,3 +12,8 @@ Tool that can provide the staff team with client logs of the servers you have be
 >To use the program simply run the exe as administrator, the staff team will recive confirmation that you are allowed to continue playing on the server
 
 > Once the program has completed, it will close itself, it is recomended that you uninstall the program afterwards. 
+
+
+Picture Guide to disabling windows Defender
+
+![alt text] (https://i.imgur.com/x5lglgs.png)
